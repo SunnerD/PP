@@ -114,7 +114,7 @@ readFile = fullDir+fileName
 #%%
 
 EMAIL_ADDRESS = os.environ.get('sunnerdonis@gmail.com')
-EMAIL_PASSWORD = os.environ.get('dmehdennenumjwss')
+EMAIL_PASSWORD = os.environ.get('XXXXXXXXXXXXXXXXX')
 
 msg = EmailMessage()
 
